@@ -3,8 +3,6 @@
 * Pembuat      : Duta Adi Pamungkas
 * Tanggal      : 18 Februari 2025
 */
-
-package Pertemuan1;
 public class Garis {
     /* 1.Atribut Garis terdiri atas titik awal dan titik akhir yang masing-masing bertipe Titik. 
          Tambahkan pula atribut static counterGaris untuk menyimpan banyaknya objek garis yang pernah dibuat. */ 

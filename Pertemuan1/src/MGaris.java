@@ -3,7 +3,7 @@
 * Pembuat      : Duta Adi Pamungkas
 * Tanggal      : 18 Februari 2025
 */
-package Pertemuan1;
+
 public class MGaris {
     public static void main(String[] args) {
         System.out.println("========== Membuat Objek Garis ==========");
